@@ -62,7 +62,7 @@ int main()
     for(i=0;i<=10;i++){
         printf("%d ",deque());
     }
-    toparla;
+    toparla();
 
     return 0;
 }
